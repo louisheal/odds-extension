@@ -1,0 +1,8 @@
+{
+  "name": "UK Odds to Decimal Converter",
+  "manifest_version": 3,
+  "version": "1.0",
+  "description": "Converts odds to a selected format.",
+  "permissions": ["activeTab", "storage"],
+  "author": "Louis Heal"
+}
